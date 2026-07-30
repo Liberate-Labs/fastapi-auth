@@ -3,7 +3,7 @@ uvicorn==0.23.2
 passlib[bcrypt]==1.7.4
 pydantic==2.3.0
 pymongo==3.12.1  # MongoDB driver (optional)
-python-multipart==0.0.5
+python-multipart==0.0.31
 SQLAlchemy
 pydantic_settings
 pymongo[srv]
