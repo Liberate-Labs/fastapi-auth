@@ -8,4 +8,4 @@ SQLAlchemy
 pydantic_settings
 pymongo[srv]
 psycopg2-binary
-PyJWT==2.8.0
+PyJWT==2.15.0
