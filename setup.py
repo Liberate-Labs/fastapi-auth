@@ -11,7 +11,7 @@ setup(
         "pydantic==1.8.3",
         "jose[cryptography]==1.3.2",
         "asyncpg==0.24.0",  # PostgreSQL driver (optional)
-        "pymongo==3.12.1",  # MongoDB driver (optional)
+        "pymongo==4.18.2",  # MongoDB driver (optional)
         "python-multipart==0.0.5",
     ],
 )
